@@ -26,5 +26,6 @@ Revenue Leakage: Identified high-value products (MRP > 300) currently out of sto
 Logistics Segmentation: Categorized over 3,700 products into Low, Medium, and Bulk weight classes using CASE statements to assist in warehouse planning.
 
 🚀 How to Run
-Import the zepto_data.csv using the MySQL Table Data Import Wizard.
+
+Import the zepto_v2.csv using the MySQL Table Data Import Wizard.
 Execute the queries in zepto_queries.sql in sequential order.
